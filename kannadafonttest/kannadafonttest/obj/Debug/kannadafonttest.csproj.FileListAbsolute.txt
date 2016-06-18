@@ -1,0 +1,12 @@
+E:\learn\kannadafonttest\kannadafonttest\bin\Debug\kannadafonttest.exe.config
+E:\learn\kannadafonttest\kannadafonttest\bin\Debug\kannadafonttest.exe
+E:\learn\kannadafonttest\kannadafonttest\bin\Debug\kannadafonttest.pdb
+E:\learn\kannadafonttest\kannadafonttest\bin\Debug\kn-IN\kannadafonttest.resources.dll
+E:\learn\kannadafonttest\kannadafonttest\obj\Debug\kannadafonttest.csprojResolveAssemblyReference.cache
+E:\learn\kannadafonttest\kannadafonttest\obj\Debug\kannadafonttest.Form1.resources
+E:\learn\kannadafonttest\kannadafonttest\obj\Debug\kannadafonttest.Properties.Resources.resources
+E:\learn\kannadafonttest\kannadafonttest\obj\Debug\kannadafonttest.Form1.kn-IN.resources
+E:\learn\kannadafonttest\kannadafonttest\obj\Debug\kannadafonttest.csproj.GenerateResource.Cache
+E:\learn\kannadafonttest\kannadafonttest\obj\Debug\kn-IN\kannadafonttest.resources.dll
+E:\learn\kannadafonttest\kannadafonttest\obj\Debug\kannadafonttest.exe
+E:\learn\kannadafonttest\kannadafonttest\obj\Debug\kannadafonttest.pdb
